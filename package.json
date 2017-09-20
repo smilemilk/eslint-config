@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-mine",
+  "version": "1.0.0",
+  "description": "eslint config for gexuhui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gexuhui",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smilemilk/eslint-config-mine.git"
+  }
+}
