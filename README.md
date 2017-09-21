@@ -18,10 +18,12 @@
 <p>基于Standard标准，补充的规则的涵义</p>
 <pre>
 "rules": {
-     <em>禁止使用console</em>
-     "no-console": 2,
-     //函数内最多有几个声明
-     "max-statements": [2, 50],
+     > <em>//禁止使用console</em>
+     > "no-console": 2,
+     
+     > <em>//函数内最多有几个声明</em>
+     > "max-statements": [2, 50],
+     
      //嵌套块深度
      "max-depth": [2, 5],
      //回调嵌套深度
