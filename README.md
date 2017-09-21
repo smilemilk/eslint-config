@@ -44,7 +44,7 @@
         "ignoreReadBeforeAssign": false
      }]
   }
-<pre>
+</pre>
 
 ### 参考文章
 <ol>
