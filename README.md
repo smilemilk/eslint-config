@@ -7,13 +7,12 @@
 <p>使用方法：</p>
 <ol>
 <li>在项目根目录下新建文件：<code>.eslintrc</code></li>
-<li>写入以下文件：
+<li>写入以下文件：</li>
 <pre>
 <code>{</code>
 <code>"extends": "eslint-config-mine"</code>
 <code>}</code>
 </pre>
-</li>
 </ol>
 
 ## 参考文章
