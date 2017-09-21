@@ -8,7 +8,11 @@
 <ol>
 <li>在项目根目录下新建文件：<code>.eslintrc</code></li>
 <li>写入以下文件：
-<pre><code>{</code><code>"extends": "eslint-config-mine"</code><code>}</code></pre>
+<pre>
+<code>{</code>
+<code>"extends": "eslint-config-mine"</code>
+<code>}</code>
+</pre>
 </li>
 </ol>
 
