@@ -20,7 +20,7 @@
 "rules": {
      //禁止使用console
      "no-console": 2,
-----
+- - - 
      //函数内最多有几个声明
      "max-statements": [2, 50],
      //嵌套块深度
