@@ -18,29 +18,27 @@
 <p>基于Standard标准，补充的规则的涵义</p>
 <pre>
 "rules": {
-     > <em>//禁止使用console</em>
-     > "no-console": 2,
-     
-     > <em>//函数内最多有几个声明</em>
-     > "max-statements": [2, 50],
-     
-     //嵌套块深度
+     <em>//禁止使用console</em>
+     "no-console": 2,
+     <em>//函数内最多有几个声明</em>
+     "max-statements": [2, 50],
+     <em>//嵌套块深度</em>
      "max-depth": [2, 5],
-     //回调嵌套深度
+     <em>//回调嵌套深度</em>
      "max-nested-callbacks": [2, 3],
-     //函数最多只有5个参数
+     <em>//函数最多只有5个参数</em>
      "max-params": [2, 5],
-     //循环复杂度
+     <em>//循环复杂度</em>
      "complexity": [2, 10],
-     //字符串最大长度
+     <em>//字符串最大长度</em>
      "max-len": [2, 120, 4],
-     //函数定义时括号前面要不要有空格
+     <em>//函数定义时括号前面要不要有空格</em>
      "space-before-function-paren": ["error", {
         "anonymous": "never",
         "named": "never",
         "asyncArrow": "ignore"
      }],
-     //首选const
+    <em>//首选const</em>
      "prefer-const": ["error", {
         "destructuring": "all",
         "ignoreReadBeforeAssign": false
