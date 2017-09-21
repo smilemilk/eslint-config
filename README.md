@@ -2,6 +2,7 @@
 ## Usage
 <p>使用之前必须安装：</p>
 npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+<p></p>
 <p>使用方法：</p>
 <ol>
   <li>在项目根目录下新建文件：.eslintrc</li>
