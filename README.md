@@ -18,9 +18,8 @@
 <p>基于Standard标准，补充的规则的涵义</p>
 <pre>
 "rules": {
-     //禁止使用console
+     * 禁止使用console
      "no-console": 2,
-- - - 
      //函数内最多有几个声明
      "max-statements": [2, 50],
      //嵌套块深度
