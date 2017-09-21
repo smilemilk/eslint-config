@@ -1,6 +1,6 @@
 #  eslit config for my project
 ## Usage
-使用之前必须安装：
+<p>使用之前必须安装：</p>
 npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 <p>使用方法：</p>
 <ol>
@@ -19,6 +19,6 @@ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plug
   </li>
   <li>
     <a href="http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html">利用 ESLint 检查代码质量</a>
-  <li>
+  </li>
 </ol>
 
