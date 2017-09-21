@@ -1,5 +1,5 @@
-#  eslit config for my project
-## Usage
+###  eslint config for my project
+### Usage
 <p>扩展Standard标准，<a href="https://www.npmjs.com/package/eslint-config-standard">eslint-config-standard</a></p>
 <p>使用之前必须安装：</p>
 <pre>
@@ -15,9 +15,7 @@
 <code>"extends": "eslint-config-mine"</code>
 <code>}</code>
 </pre>
-
-
-## 参考文章
+### 参考文章
 <ol>
   <li>
     <a href="https://mp.weixin.qq.com/s/vn5BH51CK9F1EDq7gIDODQ">代码重构之道</a>
