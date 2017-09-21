@@ -7,9 +7,9 @@ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plug
 <ol>
   <li>在项目根目录下新建文件：.eslintrc</li>
   <li>写入以下文件：
-    {
+    <code>{
       "extends": "eslint-config-mine"
-    }
+      }</code>
   </li>
 </ol>
 
