@@ -1,5 +1,6 @@
 #  eslit config for my project
 ## Usage
+<p>扩展Standard标准，<a href="https://www.npmjs.com/package/eslint-config-standard">eslint-config-standard</a></p>
 <p>使用之前必须安装：</p>
 <pre>
   <code>npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import   eslint-plugin-node</code></pre>
