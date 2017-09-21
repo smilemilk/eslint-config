@@ -1,7 +1,7 @@
 #  eslit config for my project
 ## Usage
 <p>使用之前必须安装：</p>
-<blockbone>npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node</blockbone>
+<blockquote><p>npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node</p></blockquote>
 <p></p>
 <p>使用方法：</p>
 <ol>
