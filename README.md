@@ -1,16 +1,19 @@
 #  eslit config for my project
 ## Usage
 <p>使用之前必须安装：</p>
-<code><p>npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node</p></code>
+<pre>
+  <code>npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import   eslint-plugin-node</code>
+  </pre>
 <p></p>
 <p>使用方法：</p>
 <ol>
-  <li>在项目根目录下新建文件：<code>.eslintrc</code></li>
+  <li>在项目根目录下新建文件：<pre><code>.eslintrc</code></pre></li>
   <li>写入以下文件：
-    <pre><code>{</code>
-    <code>"extends": "eslint-config-mine"</code>
-    <code>}</code></pre>
-    
+    <pre>
+      <code>{</code>
+      <code>"extends": "eslint-config-mine"</code>
+      <code>}</code>
+    </pre>
   </li>
 </ol>
 
